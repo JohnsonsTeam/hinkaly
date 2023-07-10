@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+     <channel>
+         <item turbo="true">
+              <link>http://hinkaly.vercel.app/index.html</link>
+              <turbo:content>
+                    <![CDATA[
+                         <!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/preload.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/cookie.css">
+    <link rel="shortcut icon" href="img/Logo.png" type="image/x-icon">
+    <link rel="manifest" href="js/manifest.json">
+    <script async src="js/cookie.js" async></script>
+    <meta name="description" content="Кафетерий Республики Ингушетия">
+    <meta name="keywords" content="Кафе ингушетия, кафе, заказать еду, где поесть, еда, купить еду">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <title>Khinkali #1: Главная - Кафе ингушетия, кафе, заказать еду, где поесть, еда, купить еду</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+    <link rel="manifest" href="js/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+        <!-- PRELOADER!!! -->
+        <div class="loader-wrapper">
+            <div class="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+          </div>
+        <!-- PRELOADER!!! -->
+    <header class="header">
+        <h1 class="header" style="display: none;">Khinkaly #1</h1>
+        <div class="container">
+            <div class="header-wrapper">
+                <div class="menu">
+                    <a href="pages/menu.html" class="menu-item"><img src="img/menu/home.svg" alt="Icon: Home" class="menu-image"><p class="menu-subtitle">Меню</p></a>
+                    <a href="#" class="menu-item"><img src="img/menu/contacts.svg" alt="Icon: Contacts" class="menu-image"><p class="menu-subtitle">Контакты</p></a>
+                    <a href="t.me/hinkalybot" class="menu-item"><img src="img/menu/online.svg" alt="Icon: Online purchase" class="menu-image"><p class="menu-subtitle">Заказать</p></a>
+                </div>
+                <!-- /.menu -->
+            </div>
+            <!-- /.header-wrapper -->
+        </div>
+        <!-- /.container -->
+    </header>
+    <section class="main">
+            <div class="main-wrapper">
+                <div class="main-logo">
+                    <h1 class="main-logo__title">Khinkali №1</h1>
+                </div>
+                <!-- /.main-logo -->
+                <div class="main-info">
+                    <p class="main-info__text">
+                        Khinkali №1 - является замечательным <br> кафетерием с интересным меню, <br> а также приятной атмосферой.
+                    </p>
+                    <img src="img/main/first.svg" alt="Icon: Photo" class="main-info__image image">
+                </div>
+                <!-- /.main-info -->
+                <div class="main-about">
+                    <img src="img/main/second.svg" alt="Icon: Photo" class="main-about__image image">
+                    <p class="main-about__text">
+                        Восхитительные блюда готовы <br> радовать вас каждый день.
+                    </p>
+                </div>
+                <!-- /.main-about -->
+
+            </div>
+            <!-- /.main-wrapper -->
+    </section>
+    <section class="benefits">
+            <h3 class="benefits-title">Наши преимущества:</h3>
+                <p class="benefits-list__item"><img src="img/main/checked.svg" alt="Icon: Checked icon" class="benefits-list__image">Быстрая доставка</p>
+                <p class="benefits-list__item"><img src="img/main/checked.svg" alt="Icon: Checked icon" class="benefits-list__image">Возможность заказа онлайн</p>
+                <p class="benefits-list__item"><img src="img/main/checked.svg" alt="Icon: Checked icon" class="benefits-list__image">Предзаказ онлайн</p>
+                <p class="benefits-list__item"><img src="img/main/checked.svg" alt="Icon: Checked icon" class="benefits-list__image">Наличие WI-FI</p>
+                <p class="benefits-list__item"><img src="img/main/checked.svg" alt="Icon: Checked icon" class="benefits-list__image">Специальное халяльное меню</p>
+    </section>
+</body>
+<script>
+    AOS.init();
+</script>
+<script>
+    if ('serviceWorker' in navigator) {
+     window.addEventListener('load', function() {  
+       navigator.serviceWorker.register('js/sw.js').then(
+         function(registration) {
+           // Registration was successful
+           console.log('ServiceWorker registration successful with scope: ', registration.scope); },
+         function(err) {
+           // registration failed :(
+           console.log('ServiceWorker registration failed: ', err);
+         });
+     });
+    }
+    </script>
+</html>
+
+                    ]]>
+              </turbo:content>
+          </item>
+     </channel>
+</rss>
